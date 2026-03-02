@@ -109,6 +109,7 @@ body {
   gap: 40px;
   inline-size: 100%;
   text-transform: none;    
+  margin-top: 21px;
 }
 
 .search-form__fieldset-title {
@@ -222,10 +223,6 @@ body {
   clip: rect(0 0 0 0);
   clip-path: inset(50%);
   white-space: nowrap;
-}
-
-.search-form {
-  margin-top: 21px;
 }
 
 .search-form__checkbox-list {
